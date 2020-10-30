@@ -1,12 +1,17 @@
 *mpags-cipher.cpp
 
  Lines beginning with a '#' are comments
+
+#VS code 
+*.vscode 
+
 # Text Editor Temp Files
 *~
 *.swp
 
 # Mac Filesystem
 .DS_Store?
+
 
 # Compiled Object files
 *.slo
@@ -22,6 +27,7 @@
 *.so
 *.dylib
 *.dll
+*.dSYM
 
 # Fortran module files
 *.mod
