@@ -1,0 +1,3 @@
+/workspaces/mpags-day-2-m-glowacki/build/CMakeFiles/rebuild_cache.dir
+/workspaces/mpags-day-2-m-glowacki/build/CMakeFiles/mpags-cipher.dir
+/workspaces/mpags-day-2-m-glowacki/build/CMakeFiles/edit_cache.dir
