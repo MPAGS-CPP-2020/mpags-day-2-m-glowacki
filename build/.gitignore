@@ -38,6 +38,4 @@
 *.app
 
 
-#everything but cpp src
-*
-!*.cpp
+
