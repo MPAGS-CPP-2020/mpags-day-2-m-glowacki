@@ -1,3 +1,11 @@
+/src/mpags-cipher.cpp
+
+#VS code 
+/.vscode/
+/src/.vscode/
+
+/src/mpags-cipher.dSYM/Contents/
+
 # Lines beginning with a '#' are comments
 # Text Editor Temp Files
 *~
