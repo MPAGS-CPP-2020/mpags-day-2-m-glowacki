@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Werror -Wfatal-errors -Wshadow -pedantic   -rdynamic CMakeFiles/mpags-cipher.dir/MPAGScipher/mpags-cipher_main.cpp.o CMakeFiles/mpags-cipher.dir/MPAGScipher/processCommandLine.cpp.o CMakeFiles/mpags-cipher.dir/MPAGScipher/transformChar.cpp.o CMakeFiles/mpags-cipher.dir/MPAGScipher/runCaesarCipher.cpp.o  -o mpags-cipher 

@@ -1,3 +1,10 @@
+/src/mpags-cipher.cpp
+
+#VS code 
+.vscode
+/src/.vscode
+
+
 # Lines beginning with a '#' are comments
 # Text Editor Temp Files
 *~
@@ -5,6 +12,7 @@
 
 # Mac Filesystem
 .DS_Store?
+/src/mpags-cipher.dSYM/Contents
 
 # Compiled Object files
 *.slo
